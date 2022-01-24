@@ -1,6 +1,8 @@
 {
   "name": "modern-fs",
   "private": true,
+  "repository": "github:wsi-2022/03-nodefs",
+  "homepage": "https://github.com/wsi-2022/03-nodefs",
   "version": "0.0.0",
   "description": "ITMD 467/567 demo code on the fs module",
   "main": "index.js",
