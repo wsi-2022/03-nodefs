@@ -8,6 +8,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["file system", "demo"],
-  "author": "",
+  "author": "Karl Stolley <karl.stolley@gmail.com> (https://stolley.co/)",
   "license": "ISC"
 }
