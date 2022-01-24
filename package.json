@@ -2,12 +2,12 @@
   "name": "modern-fs",
   "private": true,
   "version": "0.0.0",
-  "description": "",
+  "description": "ITMD 467/567 demo code on the fs module",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["file system", "demo"],
   "author": "",
   "license": "ISC"
 }
